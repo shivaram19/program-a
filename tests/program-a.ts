@@ -2,7 +2,6 @@ import * as anchor from "@coral-xyz/anchor";
 import { Program } from "@coral-xyz/anchor";
 import { ProgramA } from "../target/types/program_a";
 import { ProgramB } from "../target/types/program_b";
-import { publicKey } from "@coral-xyz/anchor/dist/cjs/utils";
 
 describe("program-a", () => {
   
